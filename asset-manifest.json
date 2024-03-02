@@ -1,12 +1,18 @@
 {
   "files": {
-    "main.js": "/dorotazielinska-page/static/js/main.c8451106.js",
+    "main.js": "/dorotazielinska-page/static/js/main.f22994a7.js",
     "static/js/453.9006da35.chunk.js": "/dorotazielinska-page/static/js/453.9006da35.chunk.js",
+    "static/media/moviebrovser.screen.png": "/dorotazielinska-page/static/media/moviebrovser.screen.56679457d8afbecf7ce6.png",
+    "static/media/currencyconverter.screen.png": "/dorotazielinska-page/static/media/currencyconverter.screen.cffaac97dad200fc2c1e.png",
+    "static/media/portfolio.screen.png": "/dorotazielinska-page/static/media/portfolio.screen.9ec1bbc67aeb5d2828db.png",
+    "static/media/footerGitHubIcon.svg": "/dorotazielinska-page/static/media/footerGitHubIcon.a8413e4653af35caf60e88d41913f1bc.svg",
     "index.html": "/dorotazielinska-page/index.html",
-    "main.c8451106.js.map": "/dorotazielinska-page/static/js/main.c8451106.js.map",
+    "static/media/linkedIcon.svg": "/dorotazielinska-page/static/media/linkedIcon.aef0f9cd6e09c0ac3412d77bde82e7bc.svg",
+    "static/media/pc-computer-phone-data-transfer-svgrepo-com.svg": "/dorotazielinska-page/static/media/pc-computer-phone-data-transfer-svgrepo-com.09c1ec3339b60d4a095a86ac0ced69e6.svg",
+    "main.f22994a7.js.map": "/dorotazielinska-page/static/js/main.f22994a7.js.map",
     "453.9006da35.chunk.js.map": "/dorotazielinska-page/static/js/453.9006da35.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.c8451106.js"
+    "static/js/main.f22994a7.js"
   ]
 }
