@@ -4,6 +4,7 @@ import {
   Route,
 } from "react-router-dom/cjs/react-router-dom";
 import { TopBar } from "../common/TopBar";
+import { Home } from "../features/Home/home";
 import { Contact } from "../features/Contact/contact";
 import { Portfolio } from "../features/Portfolio/portfolio";
 
