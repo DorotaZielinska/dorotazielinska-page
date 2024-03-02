@@ -2,7 +2,6 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import reportWebVitals from "./reportWebVitals";
 import { ThemeProvider } from "styled-components";
-
 import { GlobalStyle } from "./App/GlobalStyle";
 import { darkTheme } from "./App/theme";
 import App from "./App/App";
@@ -12,7 +11,7 @@ root.render(
   <React.StrictMode>
     <ThemeProvider theme={darkTheme}>
       <GlobalStyle />
-      <App />
+      <App/>
     </ThemeProvider>
   </React.StrictMode>
 );
