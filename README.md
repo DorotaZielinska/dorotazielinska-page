@@ -2,11 +2,11 @@
 
 ## Demo
 
-[See Portfolio Dorota Zielinska soon]()
+[See Portfolio Dorota Zielinska soon](https://https://dorotazielinska.github.io/page)
 
 ## Description
 
-Soon will be here my other website of my portfolio. Still I am working on form in Contact and About site, and in Clock the Hand of Houers.
+Soon will be here my other website of my portfolio. Still I am working on form in Contact and About site, and in Clock the Hand of Houers also need review.
 
 ## Technologies:
 
