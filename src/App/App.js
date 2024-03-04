@@ -1,7 +1,7 @@
 import {
-  BrowserRouter,
   Switch,
   Route,
+  HashRouter,
 } from "react-router-dom/cjs/react-router-dom";
 import { TopBar } from "../common/TopBar";
 import { Home } from "../features/Home/home";
@@ -12,7 +12,7 @@ import { About } from "../features/About/about";
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <HashRouter>
         <TopBar />
         <Switch>
           <Route path="/home" component={Home} />
@@ -20,7 +20,7 @@ function App() {
           <Route path="/portfolio" component={Portfolio} />
           <Route path="/contact" component={Contact} />
         </Switch>
-      </BrowserRouter>
+      </HashRouter>
     </>
   );
 }
