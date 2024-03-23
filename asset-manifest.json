@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/dorotazielinska-page/static/js/main.9d72f4f5.js",
+    "main.js": "/dorotazielinska-page/static/js/main.53cfa199.js",
     "static/js/453.9006da35.chunk.js": "/dorotazielinska-page/static/js/453.9006da35.chunk.js",
     "static/media/moviebrovser.screen.png": "/dorotazielinska-page/static/media/moviebrovser.screen.56679457d8afbecf7ce6.png",
     "static/media/currencyconverter.screen.png": "/dorotazielinska-page/static/media/currencyconverter.screen.cffaac97dad200fc2c1e.png",
@@ -9,10 +9,10 @@
     "index.html": "/dorotazielinska-page/index.html",
     "static/media/linkedIcon.svg": "/dorotazielinska-page/static/media/linkedIcon.aef0f9cd6e09c0ac3412d77bde82e7bc.svg",
     "static/media/pc-computer-phone-data-transfer-svgrepo-com.svg": "/dorotazielinska-page/static/media/pc-computer-phone-data-transfer-svgrepo-com.09c1ec3339b60d4a095a86ac0ced69e6.svg",
-    "main.9d72f4f5.js.map": "/dorotazielinska-page/static/js/main.9d72f4f5.js.map",
+    "main.53cfa199.js.map": "/dorotazielinska-page/static/js/main.53cfa199.js.map",
     "453.9006da35.chunk.js.map": "/dorotazielinska-page/static/js/453.9006da35.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.9d72f4f5.js"
+    "static/js/main.53cfa199.js"
   ]
 }
