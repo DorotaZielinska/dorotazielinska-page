@@ -12,7 +12,7 @@ export const Footer = () => {
       <FooterLink href={gitHub} rel="noopener noreferrer" target="_blank">
         <IconFooterGitHub />
       </FooterLink>
-      <FooterLink href={email} rel="noopener noreferrer" target="_blank">
+      <FooterLink href={`mailto:${email}`} rel="noopener noreferrer" target="_blank">
         Contact
       </FooterLink>
       <FooterLink href={linkedin} rel="noopener noreferrer" target="_blank">
